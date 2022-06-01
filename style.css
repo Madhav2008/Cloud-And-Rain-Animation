@@ -58,11 +58,11 @@ body {
 
 @keyframes animate {
     0% {
-        transform: translateY(0)scale(1);
+        transform: translateY(0) scale(1);
     }
 
     70% {
-        transform: translateY(300px);
+        transform: translateY(300px)scale(1);
     }
 
     100% {}
