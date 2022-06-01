@@ -48,5 +48,6 @@ body {
     position: relative;
     width: 10px;
     height: 10px;
-    background: #f00;margin: 0 2px;
+    background: #f00;
+    margin: 0 2px;
 }
