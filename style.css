@@ -30,5 +30,6 @@ body {
     content: '';
     position: absolute;
     width: 110px;
-    height: 110px;background: #fff;
+    height: 110px;
+    background: #fff;
 }
