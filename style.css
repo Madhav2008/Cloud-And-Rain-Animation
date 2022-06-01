@@ -14,7 +14,8 @@ body {
 
 .container {
     position: relative;
-    height: 400px;border-bottom: 2px solid #fff;
+    height: 400px;
+    border-bottom: 2px solid #fff;
 }
 
 .cloud {
