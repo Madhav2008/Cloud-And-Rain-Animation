@@ -34,7 +34,7 @@ body {
     left: 40px;
     width: 110px;
     height: 110px;
-    background: #fff;
+    background: rgb(170, 164, 164);
     border-radius: 50%;
     box-shadow: 90px 0 0 30px rgb(170, 164, 164);
 }
