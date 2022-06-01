@@ -49,5 +49,5 @@ body {
     width: 10px;
     height: 10px;
     background: #f00;
-    margin: 0 2px;
+    margin: 0 2px;border-radius: 50%;
 }
