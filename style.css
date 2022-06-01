@@ -62,6 +62,6 @@ body {
     }
 
     100% {
-        transform: translateY(10);
+        transform: translateY(10px);
     }
 }
