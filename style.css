@@ -43,7 +43,8 @@ body {
     position: relative;
     display: flex;
     z-index: 1;
-    padding: 0 20px;padding-top: 50px;
+    padding: 0 20px;
+    padding-top: 50px;
 }
 
 .rain span {
