@@ -53,7 +53,7 @@ body {
     background: #f00;
     margin: 0 2px;
     border-radius: 50%;
-    animation: animate 5s linear infinite;
+    animation: animate 5s linear infinite;animation-duration: calc(15s/var(--i));
     transform-origin: bottom;
 }
 
