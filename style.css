@@ -20,5 +20,6 @@ body {
 .cloud {
     position: relative;
     width: 320px;
-    height: 100px;background: #fff;
+    height: 100px;
+    background: #fff;
 }
