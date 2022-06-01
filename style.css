@@ -14,5 +14,6 @@ body {
 
 .container {
     position: relative;
-    height: 400px;background: #f00;
+    height: 400px;
+    background: #f00;
 }
