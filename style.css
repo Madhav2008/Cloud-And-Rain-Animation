@@ -42,4 +42,6 @@ body {
     position: relative;
     display: flex;
     z-index: 1;
-}.rain span{}
+}
+
+.rain span {}
