@@ -69,6 +69,6 @@ body {
     }
 
     100% {
-        transform: translateY(298px) scale(0);
+        transform: translateY(198px) scale(0);
     }
 }
