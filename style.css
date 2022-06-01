@@ -27,5 +27,6 @@ body {
 }
 
 .cloud::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
