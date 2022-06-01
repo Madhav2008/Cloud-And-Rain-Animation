@@ -41,7 +41,8 @@ body {
 .rain {
     position: relative;
     display: flex;
-    z-index: 1;padding: 0 20px;
+    z-index: 1;
+    padding: 0 20px;
 }
 
 .rain span {
