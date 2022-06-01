@@ -31,5 +31,6 @@ body {
     position: absolute;
     width: 110px;
     height: 110px;
-    background: #fff;border-radius: 50%;
+    background: #fff;
+    border-radius: 50%;
 }
