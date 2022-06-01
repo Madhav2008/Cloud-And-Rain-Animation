@@ -13,5 +13,6 @@ body {
 }
 
 .container {
-    position: relative;height: 400px;
+    position: relative;
+    height: 400px;
 }
