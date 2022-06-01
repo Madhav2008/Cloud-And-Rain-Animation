@@ -48,10 +48,10 @@ body {
 
 .rain span {
     position: relative;
-    bottom: 10px;
+    bottom: 20px;
     width: 10px;
     height: 10px;
-    background: blue;
+    background: rgb(48, 48, 221);
     margin: 0 2px;
     border-radius: 50%;
     animation: animate 5s linear infinite;
