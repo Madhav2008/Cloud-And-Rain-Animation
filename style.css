@@ -26,4 +26,6 @@ body {
     border-radius: 100px;
 }
 
-.cloud::before {content: '';}
+.cloud::before {
+    content: '';
+}
