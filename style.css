@@ -17,4 +17,6 @@ body {
     height: 400px;
 }
 
-.cloud {position: relative;}
+.cloud {
+    position: relative;
+}
