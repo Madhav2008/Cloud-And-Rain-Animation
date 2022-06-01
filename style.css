@@ -39,5 +39,5 @@ body {
 }
 
 .rain {
-    position: relative;
+    position: relative;display: flex;
 }
