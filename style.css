@@ -65,5 +65,7 @@ body {
         transform: translateY(300px) scale(1);
     }
 
-    100% {transform: translateY(300px);}
+    100% {
+        transform: translateY(300px);
+    }
 }
