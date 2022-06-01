@@ -54,4 +54,6 @@ body {
     margin: 0 2px;
     border-radius: 50%;
     animation: animate 5s linear infinite;
-}@keyframes animate{}
+}
+
+@keyframes animate {}
