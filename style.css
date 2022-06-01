@@ -44,4 +44,4 @@ body {
     z-index: 1;
 }
 
-.rain span {}
+.rain span {position: relative;}
