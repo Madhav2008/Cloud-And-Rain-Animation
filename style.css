@@ -29,6 +29,7 @@ body {
 .cloud::before {
     content: '';
     position: absolute;
+    top: -50px;
     width: 110px;
     height: 110px;
     background: #fff;
