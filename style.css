@@ -12,4 +12,6 @@ body {
     background: #181c1f;
 }
 
-.container {position: relative;}
+.container {
+    position: relative;
+}
