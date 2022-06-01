@@ -38,4 +38,6 @@ body {
     box-shadow: 90px 0 0 30px #fff;
 }
 
-.rain {}
+.rain {
+    position: relative;
+}
