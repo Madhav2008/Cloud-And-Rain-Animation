@@ -21,5 +21,6 @@ body {
     position: relative;
     width: 320px;
     height: 100px;
-    background: #fff;border-radius: 100px;
+    background: #fff;
+    border-radius: 100px;
 }
