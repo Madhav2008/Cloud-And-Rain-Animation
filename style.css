@@ -62,7 +62,7 @@ body {
     }
 
     70% {
-        transform: translateY(300px)scale(1);
+        transform: translateY(300px) scale(1);
     }
 
     100% {}
