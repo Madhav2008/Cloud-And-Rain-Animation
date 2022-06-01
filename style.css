@@ -36,7 +36,7 @@ body {
     height: 110px;
     background: #fff;
     border-radius: 50%;
-    box-shadow: 90px 0 0 30px #fff;
+    box-shadow: 90px 0 0 30px rgb(170, 164, 164);
 }
 
 .rain {
