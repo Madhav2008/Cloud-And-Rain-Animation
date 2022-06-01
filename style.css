@@ -52,5 +52,6 @@ body {
     height: 10px;
     background: #f00;
     margin: 0 2px;
-    border-radius: 50%;animation: animate 5s linear infinite;
+    border-radius: 50%;
+    animation: animate 5s linear infinite;
 }
