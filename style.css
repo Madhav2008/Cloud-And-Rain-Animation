@@ -28,5 +28,5 @@ body {
 
 .cloud::before {
     content: '';
-    position: absolute;
+    position: absolute;width: 110px;
 }
